@@ -1,5 +1,5 @@
 # Chat-Spy
-Simple roblox chat spy exploit                                                                                                                                  
+Simple roblox chat spy script                                                                                                                                  
 
 Script should work in basically every roblox game.                                                                                                              
 Type "spy" to enable or disable the chat spy.                                                                                                                   
